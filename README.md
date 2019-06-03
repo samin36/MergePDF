@@ -1,1 +1,1 @@
-Python script that merges PDF
+Python script that merges PDF files
